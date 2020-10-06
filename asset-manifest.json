@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mapping-robot/static/css/main.a0ae199c.chunk.css",
+    "main.js": "/mapping-robot/static/js/main.581a7df5.chunk.js",
+    "main.js.map": "/mapping-robot/static/js/main.581a7df5.chunk.js.map",
+    "runtime-main.js": "/mapping-robot/static/js/runtime-main.e70d087f.js",
+    "runtime-main.js.map": "/mapping-robot/static/js/runtime-main.e70d087f.js.map",
+    "static/css/2.e8812b95.chunk.css": "/mapping-robot/static/css/2.e8812b95.chunk.css",
+    "static/js/2.e335fe00.chunk.js": "/mapping-robot/static/js/2.e335fe00.chunk.js",
+    "static/js/2.e335fe00.chunk.js.map": "/mapping-robot/static/js/2.e335fe00.chunk.js.map",
+    "index.html": "/mapping-robot/index.html",
+    "precache-manifest.ec0baee6d87dee5e8b1a3dc159ffb621.js": "/mapping-robot/precache-manifest.ec0baee6d87dee5e8b1a3dc159ffb621.js",
+    "service-worker.js": "/mapping-robot/service-worker.js",
+    "static/css/2.e8812b95.chunk.css.map": "/mapping-robot/static/css/2.e8812b95.chunk.css.map",
+    "static/css/main.a0ae199c.chunk.css.map": "/mapping-robot/static/css/main.a0ae199c.chunk.css.map",
+    "static/js/2.e335fe00.chunk.js.LICENSE.txt": "/mapping-robot/static/js/2.e335fe00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e70d087f.js",
+    "static/css/2.e8812b95.chunk.css",
+    "static/js/2.e335fe00.chunk.js",
+    "static/css/main.a0ae199c.chunk.css",
+    "static/js/main.581a7df5.chunk.js"
+  ]
+}
