@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  background: linear-gradient(to right, #fc00ff, #00dbde);
+}
+html, body{
+  height: 100%;
+}
