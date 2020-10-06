@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8107adffde46d291dae512b9e4879b96",
+    "revision": "819c1d0c697e87eafca4e7b2373e6b3e",
     "url": "/mapping-robot/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mapping-robot/static/css/2.e8812b95.chunk.css"
   },
   {
-    "revision": "52b7858cda6a462d3b0c",
+    "revision": "93c8e9dd48120275c2d1",
     "url": "/mapping-robot/static/css/main.a0ae199c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mapping-robot/static/js/2.e335fe00.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "52b7858cda6a462d3b0c",
-    "url": "/mapping-robot/static/js/main.581a7df5.chunk.js"
+    "revision": "93c8e9dd48120275c2d1",
+    "url": "/mapping-robot/static/js/main.0c2ebc39.chunk.js"
   },
   {
     "revision": "ab2ad1616241042d4798",
